@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm Tirthan Kiyada, completed my Master’s in Cyber Secur
 
 ### Online PSB Loans Ltd.
 - **Trainee Software Engineer / IT Intern** (June 2023 – Sept 2023 / Aug 2022 – May 2023)
-- Worked on in-house and BOB projects
+- Worked on in-house and Banks projects
 - Stack: Angular, AngularJS, Spring Boot, JWT, MySQL, JSON
 
 ### Infolabz Pvt. Ltd.
